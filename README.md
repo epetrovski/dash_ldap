@@ -4,6 +4,10 @@ A simple way of making a Dash app integrate with LDAP
 ## Virtual environment
 Create a virtual environment with:
 
+    pipenv sync
+   
+And enther the virtual environment with:
+
     pipenv shell
 
 ## Run
